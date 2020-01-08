@@ -1,0 +1,32 @@
+10001|Now And Ever|Zenn Kyi, Paing Phyoe Thu, Min Nyo, Khin Thazin|2 Hours 30 Minutes|04 Jan 2020|PG13|Digital|Now Showing
+10002|Sab Kushal Mangal|Akshaye Khanna, Priyank Sharma, Riva Kishan|2 Hours 12 Minutes|03 Jan 2020|PG|Digital|Now Showing
+10003|Dark Waters|Mark Ruffalo, Anne Hathaway, Tim Robbins, Bill Camp, Victor Garber|2 Hours 7 Minutes|02 Jan 2020|PG13|Digital|Now Showing
+10004|The Truth|Catherine Deneuve, Juliette Binoche, Ludivine Sagnier|1 Hour 46 Minutes|02 Jan 2020|PG|Digital|Now Showing
+10005|Jojo Rabbit|Roman Griffin Davis, Thomasin McKenzie, Taika Waititi, Rebel Wilson, Stephen Merchant, Alfie Allen, Sam Rockwell, Scarlett Johansson|1 Hour 48 Minutes|02 Jan 2020|PG13|Digital|Now Showing
+10006|The Grudge|Andrea Riseborough, Demián Bichir, John Cho, Lin Shaye, Jacki Weaver|1 Hour 34 Minutes|02 Jan 2020|NC16|Digital|Now Showing
+10007|Kumanthong|Hoang Yen Chibi, Quang Tuan, Dinh Y Nhung, Kieu Trinh, Thanh Tu|1 Hour 46 Minutes|02 Jan 2020|NC16|Digital|Now Showing
+10008|Ashfall|Lee Byung-Hun, Ha Jung-Woo, Ma Dong-Seok, Jeon Hye-Jin, Bae Suzy|2 Hours 8 Minutes|02 Jan 2020|PG13|Digital|Now Showing
+10009|The Wolf Hour|Naomi Watts, Emory Cohen, Kelvin Harrison Jr., Jeremy Bobb|1 Hour 39 Minutes|02 Jan 2020|M18|Digital|Now Showing
+10010|An Easy Girl|Mina Farid, Zahia Dehar, Benoit Magimel, Nuno Lopes|1 Hour 33 Minutes|02 Jan 2020|R21|Digital|Now Showing
+10011|The Queen Of Black Magic|Hannah Al Rashid, Ario Bayu, Imelda Therinne, Miller Khan, Tanta Ginting|1 Hour 39 Minutes|01 Jan 2020|M18|Digital|Now Showing
+10012|Good Newwz|Akshay Kumar, Kareena Kapoor Khan, Diljit Dosanjh, Kiara Advani|2 Hours 12 Minutes|27 Dec 2019|NC16|Digital|Now Showing
+10013|Cats|Jennifer Hudson, Taylor Swift, James Corden, Idris Elba, Rebel Wilson, Ian McKellen, Judi Dench, Jason Derulo|1 Hour 50 Minutes|26 Dec 2019|PG|Digital|Now Showing
+10014|Someone, Somewhere|Simon Abkarian, François Berléand, François Civil|1 Hour 51 Minutes|26 Dec 2019|NC16|Digital|Now Showing
+10015|Official Secrets|Keira Knightley, Matt Smith, Matthew Goode, Adam Bakri|1 Hour 52 Minutes|26 Dec 2019|NC16|Digital|Now Showing
+10016|Spies In Disguise|Will Smith, Tom Holland, Rashida Jones, Karen Gillan, DJ Khaled|1 Hour 42 Minutes|25 Dec 2019|PG|Digital|Now Showing
+10017|Driving Licence|Prithviraj Sukumaran, Suraj Venjaramoodu, Miya, Deepti Sati|2 Hours 14 Minutes|24 Dec 2019|NC16|Digital|Now Showing
+10018|Ip Man 4: The Finale|Donnie Yen, Scott Adkins, Danny Chan Kwok-kwan|1 Hour 45 Minutes|20 Dec 2019|PG13|Digital|Now Showing
+10019|Hero|Sivakarthikeyan, Arjun Sarja, Abhay Deol, Kalyani Priyadarshan|2 Hours 45 Minutes|20 Dec 2019|PG13|Digital|Now Showing
+10020|Prati Roju Pandaage|Raashi Khanna, Sai Dharam Tej, Sathyaraj|2 Hours 26 Minutes|20 Dec 2019|PG13|Digital|Now Showing
+10021|Thambi|Karthi, Jyothika, Sathyaraj, Nikhila Vimal, Seetha, Sowcar Janaki, Bala Singh|2 Hours|20 Dec 2019|NC16|Digital|Now Showing
+10022|Star Wars: The Rise Of Skywalker|Daisy Ridley, Adam Driver, John Boyega, Oscar Isaac, Lupita Nyong'o, Domhnall Gleeson|2 Hours 22 Minutes|19 Dec 2019|PG13|Digital|Now Showing
+10023|Mardaani 2|Rani Mukerji, Vishal Jethwa, Vikram Singh Chauhan|1 Hour 43 Minutes|13 Dec 2019|NC16|Digital|Now Showing
+10024|The Sacred Riana: Beginning|The Sacred Riana, Aura Kasih, Agatha Chelsea, Prabu Revolusi|1 Hour 51 Minutes|12 Dec 2019|NC16|Digital|Now Showing
+10025|The Aeronauts|Eddie Redmayne, Felicity Jones, Phoebe Fox, Himesh Patel, Vincent Pérez|1 Hour 41 Minutes|12 Dec 2019|PG|Digital|Now Showing
+10026|Jumanji: The Next Level|Dwayne Johnson, Jack Black, Kevin Hart, Karen Gillan, Awkwafina, Danny DeVito, Nick Jonas, Danny Glover|2 Hours 3 Minutes|05 Dec 2019|PG|Digital|Now Showing
+10027|A Shaun The Sheep Movie: Farmageddon|Justin Fletcher, John Sparkes, Kate Harbour|1 Hour 27 Minutes|05 Dec 2019|PG|Digital|Now Showing
+10028|Last Christmas|Emilia Clarke, Henry Golding, Emma Thompson, Michelle Yeoh|1 Hour 43 Minutes|28 Nov 2019|NC16|Digital|Now Showing
+10029|Downton Abbey|Hugh Bonneville, Jim Carter, Michelle Dockery, Elizabeth McGovern, Maggie Smith, Imelda Staunton|2 Hours 2 Minutes|28 Nov 2019|M18|Digital|Now Showing
+10030|Wet Season|Yeo Yann Yann, Christopher Lee, Koh Jia Ler, Yang Shi Bin|1 Hour 43 Minutes|28 Nov 2019|M18|Digital|Now Showing
+10031|Knives Out|Daniel Craig, Chris Evans, Lakeith Stanfield, Michael Shannon, Ana de Armas, Jamie Lee Curtis, Don Johnson|2 Hours 10 Minutes|28 Nov 2019|PG13|Digital|Now Showing
+10032|Frozen 2|Kristen Bell, Idina Menzel, Josh Gad, Jonathan Groff|1 Hour 43 Minutes|21 Nov 2019|PG|Digital|Now Showing

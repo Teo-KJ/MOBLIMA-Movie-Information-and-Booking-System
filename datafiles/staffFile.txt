@@ -1,0 +1,2 @@
+10000|KJ|Teokj@cinema.sg|Pass
+72375|admin1|admin@admin.com|password
