@@ -106,5 +106,4 @@ public class CustomerView extends View {
 		}
 		sc.close();
 	}
-
 }

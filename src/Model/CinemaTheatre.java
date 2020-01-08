@@ -3,20 +3,14 @@ package Model;
 public class CinemaTheatre{
 	private String cinemaName;
 	private int theatreID;
-//	private ArrayList<Showtime> showTimes;
-//	private Showtime st;
 	private int numRow, numCol;
 	private int seatingCapacity = numRow * numCol;
-//	private ArrayList<String> seatsOccupied;
-//	private int numSeatsOccupied;
 	
 	public CinemaTheatre(String cinemaName, int theatreID, int numRow, int numCol) {
 		this.cinemaName = cinemaName;
 		this.theatreID = theatreID;
 		this.numRow = numRow;
 		this.numCol = numCol;
-//		this.numSeatsOccupied = numSeatsOccupied;
-//		this.seatsOccupied = seatsOccupied;
 	}
 	
 	public int getTheatreID() {
@@ -32,14 +26,6 @@ public class CinemaTheatre{
 	public void setCinemaName(String cinemaName) {
 		this.cinemaName = cinemaName;
 	}
-	
-//	public ArrayList<Showtime> getShowtime() {
-//		return showTimes;
-//	}
-//	public void setShowTime(Showtime st) {
-//		this.st = st;
-//		showTimes.add(st);
-//	}
 	
 	public int getRow() {
 		return numRow;
@@ -57,20 +43,5 @@ public class CinemaTheatre{
 	
 	public int getSeatingCapacity() {
 		return seatingCapacity;
-	}
-
-//	public ArrayList<String> getSeatsOccupied() {
-//		return seatsOccupied;
-//	}
-//	public void setSeatsOccupied(ArrayList<String> seatsOccupied) {
-//		this.seatsOccupied = seatsOccupied;
-//	}
-//
-//	public int getNumSeatsOccupied() {
-//		return numSeatsOccupied;
-//	}
-//	public void setNumSeatsOccupied(int numSeatsOccupied) {
-//		this.numSeatsOccupied = numSeatsOccupied;
-//	}
-	
+	}	
 }

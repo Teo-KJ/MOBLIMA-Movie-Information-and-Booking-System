@@ -5,3 +5,5 @@
 85866|Teokj@weibo.cn|61668|Ashfall|20:30|A8|10.0
 58968|john@lim.com|92001|Ashfall|16:30|A8|8.0
 85226|john@lim.com|92001|Ashfall|16:30|A3|8.0
+72939|john@lim.com|61668|Ashfall|17:00|C1|8.0
+53975|john@lim.com|61668|Ashfall|17:00|C9|8.0

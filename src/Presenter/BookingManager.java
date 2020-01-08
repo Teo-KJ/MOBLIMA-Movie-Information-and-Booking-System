@@ -152,7 +152,6 @@ public class BookingManager {
 		int col = ct.getCol();
 		int i, j, k;
 		String seat = "[ ]";
-//		String occupiedSeat = "[X]";
 		char ch = 'A';
 		System.out.println("\n\t Screen is here");
 		System.out.print("  ");
@@ -167,7 +166,6 @@ public class BookingManager {
 			System.out.print(ch + " ");
 			for (j=0; j<col; j++) {
 				System.out.print(seat + " ");
-//				if ((j == i) )
 			}
 			System.out.println("");
 			ch++;
@@ -200,13 +198,10 @@ public class BookingManager {
 		
 		System.out.println("Please choose the available seats in the following format.\n"
 					   	 + "RowColumn, i.e. A5 or B2");
-//		ArrayList<String> seats = new ArrayList<String>();
+
 		for (int i=0; i<numSeats; i++) {
 			int orderNum = (int)(Math.random()*100000);
 			String selectedSeat = MenuSelection.passChoiceString("Enter the seat number: ");
-//			int row = selectedSeat.charAt(0) - 40;
-//			int col = selectedSeat.charAt(1);
-//			seats.add(selectedSeat);
 			
 //			allow for student and senior citizen price
 			if (age>67) cinemaPrice = 8;
@@ -215,7 +210,6 @@ public class BookingManager {
 			Order newOrder = new Order(orderNum, username, ct.getTheatreID(), movieName, showtime, selectedSeat, cinemaPrice);
 			saveOrder(orderFile, newOrder);
 		}
-//		ct.setSeatsOccupied(seats);
 		System.out.println("Order successful!");
 	}
 

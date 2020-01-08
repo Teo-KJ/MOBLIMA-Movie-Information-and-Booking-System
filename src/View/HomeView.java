@@ -52,7 +52,6 @@ public class HomeView extends View {
 				System.exit(0);
 				break;
 		}
-		
 		sc.close();
 	}
 

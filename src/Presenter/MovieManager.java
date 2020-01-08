@@ -175,7 +175,7 @@ public class MovieManager {
 		}
 		DataManager.overwrite(movieFile, alw);
 		if (check == false) {
-			System.out.println("There is no movie with this ID in the list.");
+			System.out.println("There is no movie with this index in the list.");
 			return;
 		}
 		System.out.println("Movie has been removed.");

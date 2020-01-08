@@ -34,8 +34,6 @@ public class CinemaManager {
 			int row = sc.nextInt();
 			System.out.println("Please enter the number of columns at the cinema.");
 			int col = sc.nextInt();
-//			int numSeatsOccupied = 0;
-//			ArrayList<String> seats = new ArrayList<String>();
 			CinemaTheatre ct = new CinemaTheatre(cinemaName, ID, row, col);
 			allTheatres.add(ct);
 		}
@@ -61,12 +59,6 @@ public class CinemaManager {
 			st.append(SEPARATOR);
 			st.append(c.getRow());
 			st.append(SEPARATOR);
-//			st.append(c.getNumSeatsOccupied());
-//			st.append(SEPARATOR);
-//			for (String str: c.getSeatsOccupied()) {
-//				st.append(str);
-//				st.append(SEPARATOR);
-//			}
 		}
 		alw.add(st.toString());
 		DataManager.write(filename, alw);
@@ -104,12 +96,6 @@ public class CinemaManager {
 				int ID = Integer.parseInt(star.nextToken().trim());
 				int row = Integer.parseInt(star.nextToken().trim());
 				int col = Integer.parseInt(star.nextToken().trim());
-//				int numSeatsOccupied = Integer.parseInt(star.nextToken().trim());
-//				ArrayList<String> allSeats = new ArrayList<String>();
-//				for (int k=0; k<numSeatsOccupied; k++) {
-//					String seat = star.nextToken().trim();
-//					allSeats.add(seat);
-//				}
 				CinemaTheatre ct = new CinemaTheatre(name, ID, row, col);
 				allTheatres.add(ct);
 			}
